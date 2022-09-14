@@ -1,63 +1,63 @@
  
 [search-placeholder]
-other = "Arama"
+other = "Arama ..."
 
 [summary-dateformat]
-other = "Jan 2, 2006"
+other = "02/01/2006"
 
 [reading-time]
-other = "min read"
+other = "dk'da oku"
 
 [tags]
-other = "Tags"
+other = "Etiketler"
 
 [categories]
-other = "Categories"
+other = "Kategoriler"
 
 [series]
-other = "Series"
+other = "Seriler"
 
 [archive-dateformat]
-other = "Jan 2"
+other = "02/01/2006"
 
 [talks-dateformat]
-other = "Jan 2"
+other = "02/01/2006"
 
 [single-dateformat]
-other = "Jan 2, 2006"
+other = "02/01/2006"
 
 [pub-dateformat]
-other = "2006-01-02"
+other = "02/01/2006"
 
 [resume-dateformat]
-other = "Jan, 2006"
+other = "02/01/2006"
 
 [single-related]
-other = "See Also"
+other = "Bunlarada bakın"
 
 [single-writtenBy]
 other = "Yazan"
 
 [toc-label]
-other = "What's on this Page"
+other = "Neler var"
 
 [counter-site-pv]
 other = "Toplam Görüntülenme"
 
 [counter-site-uv]
-other = "Ziyaretçi"
+other = "Toplam Ziyaretçi"
 
 [counter-page-pv]
-other = "views"
+other = "görüntülenme"
 
 [donate-message]
-other = "Support the author with"
+other = "Yazara katkıda bulunun"
 
 [share-message]
-other = "Share on"
+other = "Şurada paylaş"
 
 [contact-name]
-other = "Name"
+other = "Adı"
 
 [contact-email]
 other = "Email"
@@ -66,40 +66,40 @@ other = "Email"
 other = "Tel"
 
 [contact-file]
-other = "File"
+other = "Dosya"
 
 [contact-message]
-other = "Message"
+other = "Mesaj"
 
 [contact-send]
 other = "Gönder"
 
 [contact-browse]
-other = "Browse"
+other = "Tara"
 
 [tooltip-home]
-other = "Home"
+other = "Anasayfa"
 
 [tooltip-written]
-other = "Written At"
+other = "Tarihinde yazıldı"
 
 [tooltip-modified]
-other = "Modified At"
+other = "Tarihinde düzenlendi"
 
 [tooltip-reading-time]
-other = "Reading Time"
+other = "Okuma süresi"
 
 [showcase-overview]
 other = "Overview"
 
 [showcase-pinned]
-other = "Pinned"
+other = "Sabitlenendi"
 
 [nojs-message]
 other = ""
 
 [posts-by-order]
-other = "TOP POSTS"
+other = "Yazılar"
 
 [skin-dark]
 other = "dark"
@@ -117,4 +117,4 @@ other = "solarized"
 other = "kimbie"
 
 [no-contents]
-other = "Nothing to Display"
+other = "Görüntülenecek birşey bulunamadı"
